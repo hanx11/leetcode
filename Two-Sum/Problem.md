@@ -8,5 +8,5 @@ target, where index1 must be less than the index2. Please note that your returne
 
 >You may assume that each input would have exactly one solution.
 
-Input:  numbers={2, 7, 11, 15},  target=9
-Output:  index1=1, index2=2
+*   Input:  numbers={2, 7, 11, 15},  target=9
+*   Output:  index1=1, index2=2
