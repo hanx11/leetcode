@@ -1,6 +1,6 @@
 ### Add Two Numbers
 
-*   You are given two linked list representing two non-negative numbers. The digits are stored
+You are given two linked list representing two non-negative numbers. The digits are stored
 in reverse order and each of their nodes contain a single digit. Add the two numbers and return
 it as a linked list.
 
