@@ -4,6 +4,10 @@ You are given two linked list representing two non-negative numbers. The digits 
 in reverse order and each of their nodes contain a single digit. Add the two numbers and return
 it as a linked list.
 
+#### Example:
+
 >   Input:  (2 -> 4 -> 3) + (5 -> 6 -> 4)
 >
 >   Output: 7 -> 0 -> 8
+>
+>   Explanation: 342 + 465 = 807.
