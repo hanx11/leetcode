@@ -3,7 +3,11 @@
 
 class Solution:
     @staticmethod
-    def reverse_int(number):
+    def reverse(number):
+        """
+        :type number: int
+        :rtype: int
+        """
         if number == 0:
             return 0
 
@@ -19,6 +23,6 @@ class Solution:
 
 
 if __name__ == '__main__':
-    print(Solution.reverse_int(123))
-    print(Solution.reverse_int(-12566))
-    print(Solution.reverse_int(120))
+    print(Solution.reverse(123))
+    print(Solution.reverse(-12566))
+    print(Solution.reverse(120))
